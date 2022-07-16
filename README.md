@@ -33,8 +33,11 @@ Four loss functions are available:
 
 # efficiency of the models
 Hybrid training set AUC using warp loss: 0.9327615
+
 Hybrid training set AUC using bpr loss: 0.88347363
+
 Hybrid training set AUC using logistic loss: 0.8658272
+
 Hybrid training set AUC using warp_kos loss: 0.9050389
 
 Conculsion: 
